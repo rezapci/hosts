@@ -5,10 +5,8 @@
 # Count: 2903 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
-# Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
+# Source: https://github.com/rezapci/hosts/blob/master/tracking-aggressive-extended.txt
 # Expires: 2 days
-#
-# Copyright 2019 Daniel White
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
